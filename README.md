@@ -7,6 +7,8 @@ The presented HTML, Css and Javascript code outlines a web page for a blood bank
 
 ![Screenshot 2024-01-15 232714](https://github.com/Ayushhap/BloodBank-Services/assets/129097732/bac093c4-6e25-4989-a3b0-481700be578f)
 
+![Screenshot 2024-01-15 234529](https://github.com/Ayushhap/BloodBank-Services/assets/129097732/2a38b013-2a34-40e5-8d93-419e2ac7604f)
+
 ![Screenshot 2024-01-15 233410](https://github.com/Ayushhap/BloodBank-Services/assets/129097732/cd327b69-a226-46b1-9315-21ba1e9412f7)
 
 ![Screenshot 2024-01-15 233433](https://github.com/Ayushhap/BloodBank-Services/assets/129097732/5a2693ea-0a3e-494b-8702-83896f389b23)
